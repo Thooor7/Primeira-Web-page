@@ -1,0 +1,31 @@
+body {
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
+  background: url(fundo6.jpg) center;
+
+  font-family: Poppins;
+  line-height: 1.5;
+  color: white;
+
+}
+
+main {
+  background: #00000052;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.emblema {text-align: center;
+  margin: 0;
+}
+
+.band-name {text-align: center;
+margin: 0;
+}
+
+.headline {text-align: center;
+margin: 0;
+}
+
